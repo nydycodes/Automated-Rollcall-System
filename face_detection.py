@@ -1,3 +1,6 @@
+# additional code incase you wanted to check out how face detetction works
+# need to download haarcascade_frontalface_default.xml for the same 
+
 import pathlib
 import cv2
 
