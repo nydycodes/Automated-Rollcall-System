@@ -10,3 +10,8 @@ Pre-requisites:
 2. Create account in twillio and authorize your phone numbers
 3. Download MySQL server as well as workbench for a friendly IDE
 4. Download "shape_predictor_68_face_landmarks.dat" and "dlib_face_recognition_resnet_model_v1.dat" files
+5. Also need to create a folder called "known_faces" with all the students frontal faces saved with their reg_no
+
+links for the above .dat files:
+1. https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+2. https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat
