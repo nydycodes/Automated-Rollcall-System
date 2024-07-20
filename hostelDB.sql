@@ -12,11 +12,11 @@ CREATE TABLE student (
 );
 
 INSERT INTO student (reg_no, name, phone_number, parents_phone_number, department, email) VALUES
-('3209', 'Nidhi Upadhye', '+919880507681', '+919880507680', 'CSE', 'nidhiu2003@gmail.com'),
-('3100', 'Radha Upadhye', '+919632805076', '+919880507680', 'IT','radhau@gmail.com'),
-('3108', 'Sree Shamhithaa', '+919900456378', '+916361452314', 'BIOT', 'sreeshami@gmail.com'),
-('3914', 'Dharani Guru', '+919456781223', '+919234516724', 'BIN', 'dharanig@gmail.com'),
-('3021', 'Sahaana A', '+918925361879', '+919823461278', 'AIDS', 'sahaana0907@gmail.com');
+('100', 'Neha Sharma', '__________', '__________', 'CSE', 'neha2003@gmail.com'), 
+('102', 'Ananya Singh', '__________', '__________', 'IT','ananyas@gmail.com'),
+('103', 'Samhitaa Kaur', '__________', '__________', 'BIOT', 'samhitaa.kaur@gmail.com');
+
+-- insert more students as per need
 
 CREATE TABLE attendance (
     id INT AUTO_INCREMENT PRIMARY KEY,
